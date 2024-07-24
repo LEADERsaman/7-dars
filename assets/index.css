@@ -1,0 +1,579 @@
+.otacha,
+.w {
+  display: -ms-flexbox;
+}
+
+.ffff,
+.spn {
+  font-family: Font;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.q {
+  width: 1500px;
+  background-color: #f2ceda;
+  height: 920.36px;
+  margin: 1px auto;
+}
+
+.yozuv,
+.yozuv2,
+.yozuv3,
+.yozuv4 {
+  margin-top: 41px;
+}
+
+.w {
+  width: 1125px;
+  height: 79px;
+  display: flex;
+  margin-right: 230px;
+  margin-left: 220px;
+}
+
+.btn1,
+.btn2 {
+  width: 165px;
+  height: 49px;
+  background-color: #d64374;
+  border: 1px solid transparent;
+  cursor: pointer;
+}
+
+.yozuv {
+  cursor: pointer;
+  margin-left: 232px;
+}
+
+.yozuv2:hover,
+.yozuv3:hover,
+.yozuv4:hover,
+.yozuv:hover {
+  color: red;
+}
+
+.yozuv2 {
+  color: #000;
+  cursor: pointer;
+  margin-left: 45px;
+}
+
+.yozuv3 {
+  color: #000;
+  margin-left: 55px;
+  cursor: pointer;
+}
+
+.yozuv4 {
+  color: #000;
+  margin-left: 60px;
+  cursor: pointer;
+}
+
+.btn1 {
+  margin-top: 25px;
+  margin-left: 100px;
+  border-radius: 7px;
+  transition: 1s;
+}
+
+.btn1:hover,
+.btn2,
+.btn2:hover {
+  -webkit-transition: 1s;
+  -o-transition: 1s;
+}
+
+.btn1:hover,
+.btn2:hover {
+  background-color: #0ff;
+  transition: 1s;
+}
+
+.classs,
+.ghj,
+.lop,
+.sigm,
+.subs,
+.yozuv5 {
+  color: #fff;
+}
+
+@font-face {
+  font-family: Font;
+  src: url("../font.ttf");
+}
+.ffff {
+  cursor: pointer;
+}
+
+.spn {
+  color: red;
+}
+
+.arge,
+.cde,
+.pp,
+.sdx,
+.sigmajon {
+  font-family: Ff;
+}
+
+.otacha {
+  margin-top: 245px;
+  margin-left: 220px;
+  display: flex;
+}
+
+.geroy,
+.otacha2 {
+  display: -ms-flexbox;
+}
+
+.btn2 {
+  margin-top: 50px;
+  color: #fff;
+  border-radius: 7px;
+  transition: 1s;
+}
+
+.rasm2 {
+  width: 894.68px;
+  height: 742.36px;
+  cursor: pointer;
+}
+
+.a,
+.bola2:hover,
+.conlar,
+.dd,
+.h5,
+.lek,
+.rasm1,
+.sssm,
+.wes {
+  cursor: pointer;
+}
+
+.bola1 {
+  width: 250px;
+  height: 200px;
+  margin-left: 342px;
+  text-align: center;
+}
+
+.rasmcha1,
+.rasmcha2,
+.rasmcha3 {
+  margin-top: 33px;
+}
+
+.otacha2 {
+  width: 1117px;
+  height: 200px;
+  margin-top: 41px;
+  display: flex;
+}
+
+.bola2,
+.bola3,
+.bola4 {
+  width: 250px;
+  height: 200px;
+  margin-left: 39px;
+  text-align: center;
+}
+
+.bola3,
+.bola4 {
+  cursor: pointer;
+}
+
+.rsm {
+  margin-top: 27px;
+}
+
+.geroy {
+  width: 1500px;
+  height: 656px;
+  background-color: #f8eaef;
+  margin-top: 28px;
+  display: flex;
+}
+
+.otad,
+.otas {
+  display: -ms-flexbox;
+}
+
+.btn3 {
+  width: 165px;
+  height: 49px;
+  margin-top: 50px;
+  border: 1px solid transparent;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.dh,
+.sdf {
+  border-radius: 7px;
+}
+
+.btn3:hover {
+  background-color: gold;
+}
+
+.bbb1 {
+  margin-left: 252px;
+  margin-top: 241px;
+  cursor: pointer;
+}
+
+.bbb2 {
+  margin-top: 141px;
+  margin-left: 200px;
+  margin-right: 177px;
+  cursor: pointer;
+}
+
+.katta {
+  width: 1160px;
+  height: 1856px;
+  margin-left: 149px;
+  margin-top: 97px;
+  text-align: center;
+}
+
+.inch {
+  margin-top: 100px;
+  width: 960px;
+  justify-content: space-around;
+  height: 50px;
+  margin-left: 100px;
+  text-align: center;
+  justify-content: center;
+}
+
+.b,
+.c,
+.cf,
+.cg,
+.cr,
+.lkj,
+.otad {
+  margin-left: 20px;
+}
+
+.a:hover,
+.b:hover,
+.c:hover,
+.cf:hover,
+.cg:hover,
+.cr:hover {
+  border-bottom: 1px solid red;
+}
+
+.b,
+.c {
+  cursor: pointer;
+}
+
+.cf,
+.cg,
+.cr,
+.lkj {
+  cursor: pointer;
+}
+
+.otad {
+  width: 1119px;
+  height: 420px;
+  display: flex;
+}
+
+@font-face {
+  font-family: Ff;
+  src: url(../f1.ttf);
+}
+.bolad,
+.lmk {
+  cursor: pointer;
+  margin-top: 100px;
+}
+
+.sdf {
+  background-color: #d64374;
+  width: 165px;
+  height: 49px;
+  border: 1px solid transparent;
+  margin-top: 25px;
+}
+
+.sdf:hover,
+.sigma:hover {
+  background-color: gold;
+  cursor: pointer;
+}
+
+.asd {
+  margin-top: 28px;
+}
+
+.otas {
+  width: 1108px;
+  height: 415px;
+  border: 1px solid transparent;
+  margin-left: 25px;
+  display: flex;
+  margin-top: 30px;
+}
+
+.gtf,
+.otash {
+  width: 1121px;
+  height: 445px;
+  margin-left: 20px;
+  display: -ms-flexbox;
+  cursor: pointer;
+}
+
+.arge,
+.cde {
+  margin-top: 100px;
+}
+
+.otash {
+  display: flex;
+}
+
+.gtf {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.bolaw,
+.ko {
+  margin-left: 50px;
+}
+
+.bolaw,
+.mn {
+  display: -ms-flexbox;
+}
+
+.bolaw {
+  display: flex;
+  margin-top: 100px;
+}
+
+.hju {
+  color: #d64374;
+}
+
+.col,
+.ppp,
+.sdd,
+.wq {
+  color: gray;
+}
+
+.R {
+  width: 35px;
+  height: 35px;
+}
+
+.lko,
+.mn {
+  width: 1500px;
+}
+
+.mn {
+  height: 678px;
+  background-color: #f8eaef;
+  justify-content: space-around;
+  display: flex;
+}
+
+.btn3,
+.dh {
+  background-color: #d64374;
+}
+
+.footer,
+.tuf {
+  display: -ms-flexbox;
+}
+
+.ds {
+  margin-top: 150px;
+  cursor: pointer;
+}
+
+.wer {
+  margin-top: 50px;
+  cursor: pointer;
+}
+
+.iconlar {
+  justify-content: space-between;
+}
+
+.lko {
+  height: 465px;
+  text-align: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.forma,
+.sdd {
+  width: 303px;
+  border: 1px solid pink;
+  padding: 20px;
+}
+
+.ddg,
+.dh,
+.forma,
+.sdd {
+  height: 74px;
+  cursor: pointer;
+}
+
+.lki {
+  margin-top: 100px;
+  cursor: pointer;
+}
+
+.sdd {
+  margin-left: 30px;
+}
+
+.ddg {
+  width: 512px;
+  border: 1px solid pink;
+  padding: 20px;
+}
+
+.btn3 {
+  transition: 1s;
+}
+
+.dh {
+  width: 134px;
+  border: 1px solid transparent;
+}
+
+.dh:hover,
+.songgi:hover {
+  background-color: #0ff;
+}
+
+.footer {
+  width: 1500px;
+  height: 381px;
+  background-color: #000;
+  margin-top: 1px;
+  display: flex;
+}
+
+.ppp,
+.wq {
+  cursor: pointer;
+}
+
+.ele {
+  margin-top: 70px;
+  margin-left: 245px;
+}
+
+.col {
+  cursor: pointer;
+  margin-left: 37px;
+  margin-top: 120px;
+}
+
+.sigmacha,
+.tuf {
+  margin-left: 20px;
+}
+
+.gay,
+.lpo {
+  color: #fff;
+  cursor: pointer;
+}
+
+.lek:hover,
+.lpn:hover,
+.lpo:hover {
+  border-bottom: 1px solid #fff;
+}
+
+.sigma {
+  width: 165px;
+  height: 49px;
+  background-color: #d64374;
+  border-radius: 7px;
+  margin-top: 10px;
+  border: 1px solid transparent;
+}
+
+.argen,
+.tuf {
+  width: 1108px;
+  height: 415px;
+  border: 1px solid transparent;
+}
+
+.tuf {
+  display: flex;
+}
+
+.sigmacha {
+  margin-top: 100px;
+}
+
+.bacha2,
+.tentak {
+  margin-top: 150px;
+}
+
+.argen {
+  margin-left: 25px;
+  display: flex;
+}
+
+.bacha2 {
+  color: gray;
+  margin-left: 153px;
+}
+
+.tentak {
+  margin-left: 150px;
+}
+
+.formchik {
+  border: 1px solid #d64374;
+  background-color: #000;
+  width: 230px;
+  height: 55px;
+  padding: 20px;
+}
+
+.songgi {
+  height: 55px;
+  width: 80px;
+  margin-left: 0;
+  background-color: #d64374;
+  border-radius: 7px;
+  border: 1px solid transparent;
+}/*# sourceMappingURL=index.css.map */
